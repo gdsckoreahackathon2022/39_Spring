@@ -31,6 +31,7 @@ Application : React-Native
 #### 3. 캠페인 기록(포토플리오) 페이지
 <img src="https://user-images.githubusercontent.com/77733145/152596153-5b98e00e-88c9-4e3d-b3ba-6f71b46c73fe.png" width="300">.  
 - 본인이 현재까지 참여한 캠페인들을 포토폴리오 형식으로 기록해 제공한다.
+#### 프로토타입 https://xd.adobe.com/view/2555268a-2fb2-4524-8c37-03c29cf9a20d-7006/?fullscreen
 
 ## 🏆 앞으로 어떻게 발전시킬 계획인가요?
 앱개발을 완료하고 베타서비스를 출시하여 사용자들의 피드백을 받는다. 캠페인 주최 측과 협력하여 서비스를 홍보한다.
